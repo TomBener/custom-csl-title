@@ -1,0 +1,107 @@
+[
+  {
+    "author": [
+      {
+        "family": "Wang",
+        "given": "Yanjin"
+      }
+    ],
+    "container-title": "Bianzheng gonglun",
+    "id": "wangyanjin1941",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          1941
+        ]
+      ]
+    },
+    "page": "41-51",
+    "title": "Fanlun bianjiang jiaotong: [A general discussion on frontier transportation]",
+    "title-short": "Fanlun bianjiang jiaotong",
+    "type": "article-journal",
+    "volume": "1"
+  },
+  {
+    "author": [
+      {
+        "family": "Wei",
+        "given": "Yuan"
+      }
+    ],
+    "id": "weiyuan2004",
+    "issued": {
+      "date-parts": [
+        [
+          2004,
+          12
+        ]
+      ]
+    },
+    "publisher": "Yuelu shushe",
+    "publisher-place": "Changsha",
+    "title": "Wei Yuan quanji (di san ce). [Complete works of wei yuan]",
+    "title-short": "Wei Yuan quanji (di san ce)",
+    "type": "book",
+    "volume": "3"
+  },
+  {
+    "author": [
+      {
+        "family": "Xue",
+        "given": "Fucheng"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Ding",
+        "given": "Fenglin"
+      },
+      {
+        "family": "Wang",
+        "given": "Xinzhi"
+      }
+    ],
+    "id": "xuefucheng1987",
+    "issued": {
+      "date-parts": [
+        [
+          1987,
+          9
+        ]
+      ]
+    },
+    "publisher": "Shanghai renmin chubanshe",
+    "publisher-place": "Shanghai",
+    "title": "Xue Fucheng xuanji. [Selected works of xue fucheng]",
+    "title-short": "Xue Fucheng xuanji",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Yan",
+        "given": "Fu"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Wang",
+        "given": "Shi"
+      }
+    ],
+    "id": "yanfu1986",
+    "issued": {
+      "date-parts": [
+        [
+          1986
+        ]
+      ]
+    },
+    "publisher": "Zhonghua shuju",
+    "publisher-place": "Beijing",
+    "title": "Yan Fu ji. [Collected works of yan fu]",
+    "title-short": "Yan Fu ji",
+    "type": "book"
+  }
+]
