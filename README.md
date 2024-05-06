@@ -12,6 +12,6 @@ How to Remove the Punctuation Between `title` and `titleaddon/subtitle`? E.g. re
 pandoc -C test.md -o test.docx
 ```
 
-# Discussion
+## Discussion
 
 [jgm/pandoc#9725](https://github.com/jgm/pandoc/discussions/9725)
